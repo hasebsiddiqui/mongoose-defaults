@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-default",
+  "version": "3.0.2",
+  "description": "Plugin for mongoose which sets up all default values for fields if default values were not provided",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasebsiddiqui/mongoose-default.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongoose-plugin",
+    "defaultValue",
+    "mongoose defaultValue",
+    "mongodb defaultValue",
+    "mongoose defaults",
+    "mongoose default",
+    "mongoose-defaults",
+    "mongoose-default",
+    "mongodb",
+    "defaultValues"
+  ],
+  "author": "Haseeb Siddiqui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasebsiddiqui/mongoose-default/issues"
+  },
+  "homepage": "https://github.com/hasebsiddiqui/mongoose-default#readme"
+}
