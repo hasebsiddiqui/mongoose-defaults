@@ -19,7 +19,7 @@ This plugin sets default value for all fields if default values were not provide
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning
+We use [SemVer](http://semver.org/) for versioning.
 
 ## Usage
 
