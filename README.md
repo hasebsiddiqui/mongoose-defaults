@@ -30,7 +30,7 @@ We use [SemVer](http://semver.org/) for versioning.
   Schema.plugin(mongoosedefault);
 
   //Set default values of all mongoose fields except String to Predefined Defaults. Set the default
-  //of all String fields to "defaultValue"
+  //of all String fields to "defaultValue".
   Schema.plugin(mongoosedefault,{String:"defaultValue"});
 
 ```
